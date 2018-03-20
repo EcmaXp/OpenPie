@@ -102,3 +102,6 @@ ENV/
 
 # idea
 .idea/
+
+# cmake-build-xxx
+cmake-build-*/
