@@ -1,6 +1,7 @@
 # OpenPython
 
 ![Python Interpreter in OpenPython v1.0](https://user-images.githubusercontent.com/21021916/47162981-0163aa80-d330-11e8-9e54-7b470a5e67b0.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOpenPythons%2FOpenPython.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FOpenPythons%2FOpenPython?ref=badge_shield)
 
 **OpenPython makes micropython available on OpenComputers.**
 
@@ -33,3 +34,7 @@ Thank you for playing.
 Links
 - [minecraft.curseforge.com/projects/openpython](https://minecraft.curseforge.com/projects/openpython)
 - [OpenPython in oc.cil.li](https://oc.cil.li/index.php?/topic/1744-mc1122oc17-openpython%C2%A0micropython-available-on-opencomputers/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOpenPythons%2FOpenPython.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FOpenPythons%2FOpenPython?ref=badge_large)
